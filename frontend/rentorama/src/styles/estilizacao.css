@@ -1,0 +1,18 @@
+.menu-rentorama {
+    background-color: #80C54F !important;
+}
+
+.image img {
+    max-width: 290px;
+    min-height: 261px;
+}
+
+.trilhas .grouped.fields {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.trilhas .button.ui.button {
+    margin-bottom: 12px;
+    margin-left: 121px;
+}
